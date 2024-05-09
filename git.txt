@@ -1,5 +1,5 @@
 git init
-git config --global user.email "email"
+git config --global user.email st450017@gmail.com
 git config --global user.name "名稱"
 git add .
 git commit -m "feat:new file"
